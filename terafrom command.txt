@@ -1,0 +1,14 @@
+we have to configure aws by using command (aws configure)
+
+
+
+terraform init
+
+terrafrom plan
+
+terraform apply
+ now type yes
+
+Also change main.tf with ami which you shall get from aws consol
+
+terraform destory (Used to delete all instances from aws)
